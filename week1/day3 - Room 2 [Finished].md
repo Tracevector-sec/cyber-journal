@@ -30,4 +30,4 @@ once I finally grasped the TCP and UDP quite well, I found out I knew nothing ab
 
 ## ⏭️ Next Steps:
 - Started Room 3 - "How The Web Works"
-~~- Find replacement for gated network data in THM.~~
+- ~~Find replacement for gated network data in THM~~
