@@ -1,4 +1,4 @@
-# May 8, 2025  
+![crontab-may8-2025](https://github.com/user-attachments/assets/74d3bd82-67b0-4e14-b9c6-70e7619b1215)# May 8, 2025  
 
 Study Update:
 
@@ -24,6 +24,8 @@ if I wouldn't have run the update again out of curisity I wouldnt have been full
 much effort to update it myself everytime I use the box just to make sure is up-to-date.
 -Learned how to set up a Crontab automation, I'll post a snippet of my automation, I'm proud it looks so tidy.
 
+
+![Crontab Screenshot](../assets/crontab-may8-2025.png)
 
 
 ## ❓ What Confused Me:
